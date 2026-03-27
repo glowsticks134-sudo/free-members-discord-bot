@@ -16,7 +16,7 @@ try:
         config = json.load(f)
     
     BOT_TOKEN = config['token']
-    CLIENT_ID = config['id']
+    CLIENT_ID = config['1487217123859365948']
     CLIENT_SECRET = config['secret']
     MAIN_SERVER = 1437381878310109185  # Your main server ID
     
